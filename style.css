@@ -1,0 +1,38 @@
+body {
+  color: #494949;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: lighter;
+  font-family: 'Lora', serif;
+  margin: 0;
+}
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+h2 {
+  color: #A0A0A0;
+  font-weight: normal;
+}
+
+/* Custom design */
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1595770682278-45f87501dd95?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixlib=rb-1.2.1&q=80&w=1000");
+  background-size: cover;
+  color: black;
+  padding: 300px 0;
+}
+.banner h1 {
+  font-size: 38px;
+}
+.banner p {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
+
